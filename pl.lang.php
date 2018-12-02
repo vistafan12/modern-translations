@@ -554,7 +554,7 @@ return [
     // Settings
 
     "settings_attention_up"     => "Uwaga",
-    "settings_attention"        => "Odkąd do zmiany ustawieć nie potrzeba konta, używamy cookies do identyfikacji, kim jesteś. Więc wyczyść ciasteczka przez twoją przeglądarkę, to ustawienia Vlare też znikną.",
+    "settings_attention"        => "Odkąd do zmiany ustawieć nie potrzeba konta, używamy cookies do identyfikacji, kim jesteś. Gdy czyścisz ciasteczka przez twoją przeglądarkę, to ustawienia Vlare znikną.",
     "settings_visual"           => "Ustawienia wizualne",
     "settings_technical"        => "Ustawienia techniczne",
     "settings_language"         => "Język",
@@ -577,7 +577,7 @@ return [
     "video_actions_share"       => "Udostępnij",
     "video_actions_favorite"    => "Dodaj do ulubionych",
     "video_actions_unfavorite"  => "Usuń do ulubionych",
-    "video_actions_playlists"	=> "Playlisyu",
+    "video_actions_playlists"	=> "Playlisy",
     "video_actions_flag"		=> "Zgłoś",
 
     "video_info_uploaded"		=> "Wrzucone",
